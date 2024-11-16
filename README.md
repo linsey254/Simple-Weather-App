@@ -1,7 +1,12 @@
 Weather App:
+
+
 A simple and user-friendly weather application that provides real-time weather information based on your location. This app fetches weather data from a reliable API and displays key weather details like temperature, humidity, wind speed, and weather conditions.
 
+
 Features:
+
+
 i) Get current weather data by entering your city or using geolocation.
 
 
@@ -15,6 +20,7 @@ iv) Simple and responsive user interface.
 
 
 Technologies Used:
+
 
 i) HTML: Structure of the application.
 
@@ -35,6 +41,8 @@ ii) The app will display the current weather details for that location.
 
 
 Setup Instructions:
+
+
 i) Clone or download the repository.
 
 
@@ -45,6 +53,8 @@ iii) Make sure to obtain a free API key from OpenWeatherMap and insert it into t
 
 
 Example:
+
+
 City: New York
 
 
